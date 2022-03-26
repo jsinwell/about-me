@@ -3,3 +3,15 @@ body::before {
     content: '';
     height: 30px;
 }
+
+ul {
+    list-style-type: none;
+  }
+
+ul li {
+    margin-bottom: 30px;
+}
+
+ul li span.text {
+    margin-left: 10px;
+}
